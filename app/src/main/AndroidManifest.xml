@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bigkiller.miaihelper">
+    <application
+        android:label="小愛同學機型偽裝助手">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="讓小愛同學將機型識別為Mi 10" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="54" />
+    </application>
+</manifest>
